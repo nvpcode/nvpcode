@@ -2,9 +2,7 @@
 My name is Nguyen Van Phuong. I aspire to become an AI Engineer specializing in Computer Vision and NLP, with hands-on experience from projects such as Legal Consulting Chatbot (RAG), Personal Document QA Chatbot (RAG), License Plate Recognition (YOLO + VLM), and Violence Detection in Video. I aim to continuously improve my skills while delivering practical AI solutions that optimize workflows and create real business impact.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nguyen-van-phuong-356b9835b/) 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nvpcode) 
-[![Youtube]() Youtube](https://www.youtube.com/@nguyenvanphuong0711)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nguyen-van-phuong-356b9835b/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@_nguyenvanphuong07) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@nguyenvanphuong0711) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyenphuongv07@gmail.com) 
 
 <a href="https://github.com/nvpcode/Demo_Chatbot_LLM_RAG_Ollama">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
