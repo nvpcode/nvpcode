@@ -1,5 +1,7 @@
-### 👋 WELCOME TO MY PAGE
+## 👋 WELCOME TO MY PAGE
+
 My name is Nguyen Van Phuong. I aspire to become an AI Engineer specializing in Computer Vision and NLP, with hands-on experience from projects such as Legal Consulting Chatbot (RAG), Personal Document QA Chatbot (RAG), License Plate Recognition (YOLO + VLM), and Violence Detection in Video. I aim to continuously improve my skills while delivering practical AI solutions that optimize workflows and create real business impact.<br>
+
 ## 📫 How to reach me: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-van-phuong-356b9835b/) 
